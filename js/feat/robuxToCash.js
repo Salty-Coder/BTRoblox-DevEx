@@ -350,6 +350,9 @@ const RobuxToCash = {
 		],
 		USD: [
 			{ name: "devex", cash: 350, robux: 1000 }
+		],
+		GBP: [
+			{ name: "devex", cash: 323, robux: 1000 }
 		]
 	},
 
